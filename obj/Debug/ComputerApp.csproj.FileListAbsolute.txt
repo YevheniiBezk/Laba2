@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ComputerApp\bin\Debug\ComputerApp.exe.config
+C:\Users\PC\source\repos\ComputerApp\bin\Debug\ComputerApp.exe
+C:\Users\PC\source\repos\ComputerApp\bin\Debug\ComputerApp.pdb
+C:\Users\PC\source\repos\ComputerApp\bin\Debug\Laba2.dll
+C:\Users\PC\source\repos\ComputerApp\bin\Debug\Laba2.pdb
+C:\Users\PC\source\repos\ComputerApp\obj\Debug\ComputerApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ComputerApp\obj\Debug\ComputerApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ComputerApp\obj\Debug\ComputerApp.csproj.CopyComplete
+C:\Users\PC\source\repos\ComputerApp\obj\Debug\ComputerApp.exe
+C:\Users\PC\source\repos\ComputerApp\obj\Debug\ComputerApp.pdb
